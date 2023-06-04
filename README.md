@@ -1,4 +1,4 @@
-My first readmeimport win32print
+import win32print
 import win32ui
 import win32gui
 
